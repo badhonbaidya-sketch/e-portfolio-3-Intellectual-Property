@@ -4,7 +4,7 @@ A collection of artefacts that demonstrate what I have learnt about Intellectual
 
 ## Artefact 1: Australian Intellectual Property and Competition Law 
 ![Springer_article_ss1](1.jpeg)
-## https://link.springer.com/article/10.1007/s40319-021-01039-9
+## Link: https://link.springer.com/article/10.1007/s40319-021-01039-9
 
 **Summary of Artefact:**
 
@@ -19,7 +19,7 @@ I choose this paper since there is a direct connection with topics of copyright,
 **Screenshot**
 ![Alt Text](2.jpeg)
 
-## https://academic.oup.com/policyandsociety/article/44/1/23/7606572?utm_source=chatgpt.com&login=false
+## Link: https://academic.oup.com/policyandsociety/article/44/1/23/7606572?utm_source=chatgpt.com&login=false
 
 **Summary of Artefact:**
 
@@ -34,7 +34,7 @@ I selected this paper as it had relevance to the Week 7 topics Copyright and IP 
 
 ![reserchgate_ss](3.jpeg)
 
-## https://www.sciencedirect.com/science/article/abs/pii/S0167624520301232?utm
+## Link: https://www.sciencedirect.com/science/article/abs/pii/S0167624520301232?utm
 
 **Summary of Artefact:**
 
